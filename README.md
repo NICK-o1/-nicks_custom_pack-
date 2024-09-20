@@ -8,3 +8,5 @@ ensure [nicks_custom_pack]
 ------------------------------------------------------------------
 Drag and drop [nicks_custom_pack] folder to your resource folder.
 ------------------------------------------------------------------
+Not the best stuff but am still learning blender!
+------------------------------------------------------------------
